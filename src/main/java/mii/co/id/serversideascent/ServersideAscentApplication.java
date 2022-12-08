@@ -8,6 +8,7 @@ public class ServersideAscentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServersideAscentApplication.class, args);
+                System.out.println("Serverside is Running.....");
 	}
 
 }
