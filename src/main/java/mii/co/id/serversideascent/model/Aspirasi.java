@@ -45,3 +45,4 @@ public class Aspirasi {
     private Date date;
     
 }
+//test commit coy
